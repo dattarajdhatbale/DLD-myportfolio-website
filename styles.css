@@ -9,12 +9,12 @@
 }
 
 [data-theme="light"] {
-    --bg-color:#0a0a0a;
-    --text-color: #666666;
-    --text-bright:#ffffff;
+     --bg-color: #f5f5f0;
+    --text-color: #555550;
+    --text-bright: #1a1a1a;
     --accent-color: #22c55e;
-    --border-color: #1a1a1a;
-    --hover-bg: #141414;
+    --border-color: rgba(0, 0, 0, 0.08);
+    --hover-bg: #eeeee8;
 }
 
 * {
